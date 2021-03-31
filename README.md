@@ -14,4 +14,4 @@ There's a few classes in ```example.py``` that may give you some idea of how to 
 For additional add up to the project:
 - 3-player Connect 4 game (or more) 
 - Create a bot player that plays a random move
-- Graphical Interface (This may take more than a weekend to finish, but feel free to explore), you can use [graphics.py](https://stackoverflow.com/questions/15886455/simple-graphics-for-python?answertab=votes#tab-top) or maybe [turtle](https://docs.python.org/3/library/turtle.html#:~:text=Turtle%20graphics%20is%20a%20popular%20way%20for%20introducing%20programming%20to%20kids.&text=The%20turtle%20module%20is%20an,)%20100%25%20compatible%20with%20it.)
+- Graphical Interface (This may take more than a weekend to finish, but feel free to explore), you can use [graphics.py](https://stackoverflow.com/questions/15886455/simple-graphics-for-python?answertab=votes#tab-top) or maybe [turtle](https://docs.python.org/3/library/turtle.html#module-turtle)
